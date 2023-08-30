@@ -1,0 +1,110 @@
+<html>
+    <head>
+        <style>
+            table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            }
+            th, td {
+            padding: 2px;
+            /* white-space: nowrap */
+            }
+            input.right {
+                float: right;
+            }
+        </style>
+        <title>
+            Security Liaisons Membership List
+        </title>
+    </head>
+    <body>
+        <h2>
+            Security Liaisons Membership List
+        </h2>
+        <form name="frm1" method="post" action="{{ url_for('add_member') }}">
+            <label for="id">
+                PennID:
+            </label>
+            <input type="text" name="id">
+            <input type="submit" value="Add Member">
+        </form>
+        <form name="frm2" method="post" action="{{ url_for('save_permissions') }}">
+            <input type="submit" value="Delete Selected" formaction="{{ url_for('remove_member') }}"></button>
+            <input type="submit" value="Save Permissions"></button>
+            <br>
+            <hr>
+            <table>
+                <h3>Primary Liaisons</h3>
+                <tr>
+                    <th></th>
+                    <th>School/Center</th>
+                    <th>PennID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <!-- <th>Box Folder Permission</th> -->
+                    <!-- <th>Mailing List Membership</th> -->
+                    <th>Visible Contact Information</th>
+                </tr>
+                <!-- <th>Switch Port</th><th>MAC</th><th>Manufacturer</th><th>Switch Unit</th>
+                <th>Port Number</th><th>Org Code</th><th>Buildisng</th><th>Organization</th></tr> -->
+                {% for x in primaryLiaisons %}
+                    <tr>
+                        <td>
+                            <input type="radio" name="select" value="{{ x['pennkey'] }}">
+                        </td>
+                        <td>{{ x['schctr'] }}</td>
+                        <td>{{ x['pennkey'] }}</td>
+                        <td>{{ x['name'] }}</td>
+                        <td>{{ x['email'] }}</td>
+                        <!-- <td><input type="checkbox" name="boxfolder" value="off"></td>
+                        <td><input type="checkbox" name="mailinglist" value="off"></td> -->
+                        <td>
+                            <input type="checkbox" name="contact" value="off">
+                        </td>
+                    </tr>
+                {% endfor %}
+            </table>
+            <hr>
+            <table>
+                <h3>Additional Designees and Contacts</h3>
+                <input type="submit" value="Update Primary Liaison" formaction="{{ url_for('update_primary') }}"></button>
+                <br>
+                <br>
+                <tr>
+                    <th></th>
+                    <th>School/Center</th>
+                    <th>PennID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <!-- <th>Box Folder Permission</th> -->
+                    <!-- <th>Mailing List Membership</th> -->
+                    <th>Visible Contact Information</th>
+                </tr>
+                <!-- <th>Switch Port</th><th>MAC</th><th>Manufacturer</th><th>Switch Unit</th>
+                <th>Port Number</th><th>Org Code</th><th>Buildisng</th><th>Organization</th></tr> -->
+                {% for member in members %}
+                    <tr>
+                        <td>
+                            <input type="radio" name="select" value="{{ member['pennkey'] }}">
+                        </td>
+                        <td>{{ member['schctr'] }}</td>
+                        <td>{{ member['pennkey'] }}</td>
+                        <td>{{ member['name'] }}</td>
+                        <td>{{ member['email'] }}</td>
+                        <!-- <td><input type="checkbox" name="boxfolder" value="off"></td>
+                        <td><input type="checkbox" name="mailinglist" value="off"></td> -->
+                        <td>
+                            <input type="checkbox" name="contact" value="off">
+                        </td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </form>
+        <footer>
+            <hr>
+            Brought to you by the Office of Information Security
+            <br>
+            <a href="mailto:security@isc.upenn.edu">security@isc.upenn.edu</a>
+        </footer>
+    </body>
+</html>
