@@ -1,0 +1,4 @@
+dobkin	General University Special	issecurity@uphs.upenn.edu
+gpell	Audit Compliance and Privacy - 78	hireit@lists.upenn.edu
+tedhersh	Provost's Center - 83	security@sas.upenn.edu
+wwhite	General University Special	issecurity@uphs.upenn.edu

@@ -1,0 +1,12 @@
+AN	Annenberg
+AS	SAS
+DM	Dental
+ED	GSE
+EG	SEAS
+FA	Design
+LW	Law
+MD	SOM
+NU	Nursing
+SW	SSW
+VM	Vet
+WH	Wharton

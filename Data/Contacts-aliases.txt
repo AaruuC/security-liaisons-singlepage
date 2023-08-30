@@ -1,0 +1,33 @@
+Alumni	deagar@dev.upenn.edu, musicman@dev.upenn.edu, rgarriso@dev.upenn.edu
+BusSvcs	bsditsecurity@lists.upenn.edu
+CampusSvcs	bsditsecurity@lists.upenn.edu
+CHOP	servicedesk@email.chop.edu
+CHOP-user	pennkey@email.chop.edu
+CRC	techcenter-admin@upenn.edu
+Dental	sdmhelp@dental.upenn.edu
+Design	ithelp@design.upenn.edu
+DRIA	cliftong@pobox.upenn.edu, donnar@pobox.upenn.edu, gbw@pobox.upenn.edu
+EHRS	hireit@lists.upenn.edu
+Finance	josephsh@upenn.edu, brentf@upenn.edu, Dziomba@UPenn.Edu, mtront@upenn.edu, craigwa@upenn.edu
+GSE	gse-security@lists.upenn.edu
+GreekNet	techcenter-admin@upenn.edu
+ISC-ECC	ecc-staff@isc.upenn.edu
+ISC-HIREIT	hireit@lists.upenn.edu
+ISC-SAs	linuxadmins@lists.upenn.edu
+ISC-PennKey	hireit@lists.upenn.edu
+Law	security@law.upenn.edu
+Law-DMCA	dmca-notifications@law.upenn.edu, techcenter-admin@upenn.edu
+Library	smullens@pobox.upenn.edu
+Nursing	security@nursing.upenn.edu
+President's Center	hireit@lists.upenn.edu
+ResNet-CHAS	rescomp@pobox.upenn.edu
+ResNet-CSG	techcenter-admin@upenn.edu
+SAS	security@sas.upenn.edu
+SOM	issecurityoperationsteam@pennmedicine.upenn.edu
+SEAS	pc-triage@seas.upenn.edu
+SP2	sp2help@sp2.upenn.edu, allegret@upenn.edu
+TechCenter	techcenter-admin@upenn.edu
+VET	abuse@vet.upenn.edu
+UPHS	issecurityoperationsteam@pennmedicine.upenn.edu
+Wharton	security@wharton.upenn.edu
+Wistar	servicedesk@wistar.org, preis@wistar.org, prettew@wistar.org

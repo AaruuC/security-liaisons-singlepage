@@ -1,0 +1,12 @@
+sas	SAS
+dental	Dental
+gse	GSE
+seas	SEAS
+design	Design
+law	Law
+mail.med	SOM
+nursing	Nursing
+sp2	SSW
+uphs	UPHS
+vet	Vet
+wharton	Wharton

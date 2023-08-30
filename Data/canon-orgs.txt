@@ -1,1 +1,126 @@
-
+AC	Annenberg Center For Performing Arts - 19
+ADMISSIONS	Provost's Center - 83
+AFCRI	School of Medicine - 40
+ASC	Annenberg School for Communication - 36
+AUDIT	Audit Compliance and Privacy - 78
+Administration	President's Center - 81
+Alumni	Development and Alumni Relations - 90
+Archives and Records	President's Center - 81
+Athletics	Division of Recreation and Intercollegiate Athletics - 24
+Bioethics	School of Medicine - 40
+Biomed Lib	School of Medicine - 40
+Business Services	Business Services - 93
+BusSvcs	Business Services - 93
+Campus Services	Campus Services - 95
+CampusSvcs	Campus Services - 95
+CCEB	School of Medicine - 40
+CGP	Provost Interdisciplinary Programs - 04
+CHOP	Health Services - CHOP
+CML LAB GSFA/SSW	School of Social Policy and Practice - 35
+CTT	Provost's Center - 83
+Christian Assoc.	External Organizations (Agency Funds)
+College House Computing	College Houses and Academic Services - 86
+Comptroller	Division of Finance - 87
+Credit Union	External Organizations (Agency Funds)
+Dental	School of Dental Medicine - 51
+Design	School of Design - 33
+Dining	Business Services - 93
+EHRS	Provost's Center - 83
+EVP	Executive Vice President - 98
+Facilities	Facilities and Real Estate Services - 96
+Finance	Division of Finance - 87
+GRASP	School of Engineering and Applied Science - 13
+GreekNet	ResNet-CSG
+GSAC	Student Services - 85
+GSE	Graduate School of Education - 32
+GSFA	School of Design - 33
+HHMI	School of Medicine - 40
+HILLEL	External Organizations (Agency Funds) - 99
+HR	Human Resources - 92
+ICA	Institute of Contemporary Art - 61
+IME	School of Medicine - 40
+IRHE	Graduate School of Education - 32
+ISC	Information Systems and Computing - 91
+ISC-ECC	Information Systems and Computing - 91
+ISC-HIREIT	Information Systems and Computing - 91
+Law	Law School - 56
+LibertyNet	External Organizations (Agency Funds)
+Library	University Library - 50
+MAGPI	External Organizations (Agency Funds)
+MMRRCC	School of Medicine - 40
+Morris Arboretum	Morris Arboretum - 60
+Museum	University Museum - 26
+Newman	External Organizations (Agency Funds)
+Nursing	School of Nursing - 06
+OIP	International Programs - 62
+ORA	Provost's Center - 83
+OSC	Provost Interdisciplinary Programs - 04
+OSIS	Provost's Center - 83
+PMC	Health Services
+Provost	Provost's Center - 83
+Public Safety	Division of Public Safety - 79
+Purchasing	Business Services - 93
+RISKMGMT	Division of Finance - 87
+Ralston House	School of Medicine - 40
+ResNet-CHAS	ResNet-CHAS
+ResNet-CSG	ResNet-CSG
+SAS	School of Arts and Sciences - 02
+SEAS	School of Engineering and Applied Science - 13
+SFS	Division of Finance - 87
+SOM	School of Medicine - 40
+SSW	School of Social Policy and Practice - 35
+STWING	ResNet-CHAS
+TRC	School of Medicine - 40
+UCA	Facilities and Real Estate Services - 96
+UGAO	Provost's Center - 83
+ULAR	Provost's Center - 83
+UPHS	Health Services
+UTV13	Student Services - 85
+Univ. Press	Provost's Center - 83
+VPUL	Student Services - 85
+Vet	School of Veterinary Medicine - 58
+VET	School of Veterinary Medicine - 58
+WQHS	Student Services - 85
+WXPN	President's Center - 81
+Wharton	Wharton School - 07
+Wistar	Wistar - 99
+Writing	School of Arts and Sciences - 02
+Annenberg Center For Performing Arts - 19	Annenberg Center For Performing Arts - 19
+Annenberg School for Communication - 36	Annenberg School for Communication - 36
+Audit Compliance and Privacy - 78	Audit Compliance and Privacy - 78
+Business Services - 93	Business Services - 93
+Campus Services - 95	Campus Services - 95
+College Houses and Academic Services - 86	College Houses and Academic Services - 86
+Development and Alumni Relations - 90	Development and Alumni Relations - 90
+Division of Finance - 87	Division of Finance - 87
+Division of Public Safety - 79	Division of Public Safety - 79
+Division of Recreation and Intercollegiate Athletics - 24	Division of Recreation and Intercollegiate Athletics - 24
+Executive Vice President - 98	Executive Vice President - 98
+External Organizations (Agency Funds)	External Organizations (Agency Funds)
+External Organizations (Agency Funds) - 99	External Organizations (Agency Funds) - 99
+Facilities and Real Estate Services - 96	Facilities and Real Estate Services - 96
+Graduate School of Education - 32	Graduate School of Education - 32
+Health Services	Health Services
+Human Resources - 92	Human Resources - 92
+Information Systems and Computing - 91	Information Systems and Computing - 91
+Institute of Contemporary Art - 61	Institute of Contemporary Art - 61
+International Programs - 62	International Programs - 62
+Law School - 56	Law School - 56
+President's Center - 81	President's Center - 81
+Provost Interdisciplinary Programs - 04	Provost Interdisciplinary Programs - 04
+Provost's Center - 83	Provost's Center - 83
+ResNet-CHAS	ResNet-CHAS
+ResNet-CSG	ResNet-CSG
+School of Arts and Sciences - 02	School of Arts and Sciences - 02
+School of Dental Medicine - 51	School of Dental Medicine - 51
+School of Design - 33	School of Design - 33
+School of Engineering and Applied Science - 13	School of Engineering and Applied Science - 13
+School of Medicine - 40	School of Medicine - 40
+School of Nursing - 06	School of Nursing - 06
+School of Social Policy and Practice - 35	School of Social Policy and Practice - 35
+School of Veterinary Medicine - 58	School of Veterinary Medicine - 58
+Student Services - 85	Student Services - 85
+University Library - 50	University Library - 50
+University Museum - 26	University Museum - 26
+Wharton School - 07	Wharton School - 07
+Wistar - 99	Wistar - 99
